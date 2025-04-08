@@ -31,3 +31,8 @@ img + p{
     font-style: italic;
     color: grey;
 }
+/* Bonus part-all articles in a row */
+main{
+    display: flex;
+    flex-direction: row;
+}
